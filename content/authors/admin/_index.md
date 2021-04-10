@@ -1,7 +1,7 @@
 ---
 title: Thijs Wijnberg
 role: Consultant and aspiring musician
-avatar_filename: 151980501_431502088071321_3521208346456041657_n.png
+avatar_filename: avatar.png
 bio: My interests include equality, economics, music and philanthropy.
 social:
   - icon: envelope
@@ -9,7 +9,7 @@ social:
     link: about/#contact
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/ThijsWijnberg
   - display:
       header: false
     link: https://www.linkedin.com/in/thijs-wijnberg-9aa732b2/

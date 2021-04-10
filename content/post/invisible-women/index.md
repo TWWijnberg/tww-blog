@@ -4,7 +4,7 @@ date: 2021-04-10T14:01:01.122Z
 draft: false
 featured: false
 image:
-  filename: invisible_women_lead.jpg
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 ---
